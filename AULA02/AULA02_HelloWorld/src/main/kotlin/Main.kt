@@ -18,7 +18,7 @@ fun main() {
     println(c1.email)
 
     println("Dados do contato 2: $c3")
-    
+
 }
 
 data class Contato(
